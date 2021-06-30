@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Practice Text Box" skipped="0" tests="1" time="20.42" timestamp="2021-06-22 06:56:47"><testcase name="Full text box"><failure message="expected:&lt;Permanane[t] Address :Suite 666 ...&gt; but was:&lt;Permanane[] Address :Suite 666 ...&gt;" type="java.lang.AssertionError">expected:&lt;Permanane[t] Address :Suite 666 ...&gt; but was:&lt;Permanane[] Address :Suite 666 ...&gt;</failure><system-err>expected:&lt;Permanane[t] Address :Suite 666 ...&gt; but was:&lt;Permanane[] Address :Suite 666 ...&gt;&#13;
+com.demoqa.automation.pageobjects.TextBoxPage.Validations(TextBoxPage.java:68)&#13;
+com.demoqa.automation.steps.TextBoxPageSteps.validationsTextBox(TextBoxPageSteps.java:37)&#13;
+com.demoqa.test.stepdefinitions.PracticeTextBoxStepDefinitions.heShouldSeeHimDataDown(PracticeTextBoxStepDefinitions.java:29)&#13;
+✽.he should see him data down(src/test/resources/features/practiceTextBox.feature:7)&#13;
+</system-err></testcase></testsuite>

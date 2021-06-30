@@ -1,0 +1,10 @@
+Pages/LoginPage.java
+ Pages.LoginPage
+Pages/SecureAreaPage.java
+ Pages.SecureAreaPage
+Pages/ContextMenuPage.java
+ Pages.ContextMenuPage
+Pages/HomePage.java
+ Pages.HomePage
+Pages/HorizontalSliderPage.java
+ Pages.HorizontalSliderPage
